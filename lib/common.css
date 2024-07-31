@@ -1,0 +1,21 @@
+body{
+    background-color: #1b1d21 !important;
+    color: white !important;
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    background-image: url("../images/bg.png") !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-attachment: fixed !important;
+}
+
+nav {
+    height: 80px;
+    z-index: -2;
+}
+
+.footer {
+    height: 110px;
+    z-index: 1;
+}

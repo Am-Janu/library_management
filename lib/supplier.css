@@ -1,0 +1,12 @@
+body{
+    background-color: #285771 !important;
+    color: white !important;
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    background-image: url("../images/bg2.jpg") !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-attachment: fixed !important;
+}
+
